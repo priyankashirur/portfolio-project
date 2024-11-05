@@ -17,9 +17,11 @@ To create this, I made and included the following files:
 5. Script.js: contains the code for a simple print statement "Hello World!"
 6. 3 Images that I used in my website
 
+Note: all three of the html files are linked to style.css and script.js
+
 I worked on different features on different branches:
 
 1. Main Branch: worked on the index.html file - links to the Home page
 2. About Branch: worked on the about.html file - links to the About Me page
 3. Portfolio Branch: worked on the portfolio.html file - links to the Portfolio page
-   _Note: all three of these html files are linked to style.css and script.js_
+4. Index Branch: worked on the index.html in class
