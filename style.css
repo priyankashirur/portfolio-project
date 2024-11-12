@@ -50,6 +50,13 @@ h2 {
   padding: 20px;
 }
 
+#home {
+  border: dotted;
+  padding: 20px;
+  border-radius: 8px;
+  display: inline-block;
+}
+
 /* Responsive layout for smaller screens */
 
 @media screen and (max-width: 768px) {
